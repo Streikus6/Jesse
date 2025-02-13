@@ -1,0 +1,2 @@
+# Ignore large database files
+my-bot/docker/postgres-data/
