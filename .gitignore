@@ -1,3 +1,12 @@
-# Ignore PostgreSQL database files
 my-bot/docker/postgres-data/
 my-bot/docker/postgres-data/*
+storage/
+data/
+logs/
+*.csv
+*.zip
+*.tar.gz
+*.log
+__pycache__/
+*.pyc
+*.pyo
